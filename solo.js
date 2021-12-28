@@ -2001,8 +2001,8 @@ solo100.on("ready", () => {
 });
 
 //////////////// token lera dabne/////////
-solo.login("OTA5NDE1ODEyODE1ODA2NTI2.YZD-EA.MU-HEWN_Ym2KwiIhlncvduTFPn8");
-solo2.login("");
+solo.login("");
+solo2.login("OTI1NDY3NDQ0MTU4NTU4MjU4.Yctlgg._pNSLQexL97P9GXNx1OmWfEgWtk");
 solo3.login("");
 solo4.login("");
 solo5.login("");
